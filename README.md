@@ -19,3 +19,7 @@ Completed **Computer Graphics and Geometry** studies at *Comenius University Bra
 - Surface & Curve Visualization – C# ✒  
 - Computer Vision – MATLAB 📚  
 - Basic CG Concepts – C# 🧬
+
+## 📄 My CV
+
+👉 [Download my CV (PDF)](CV_tutka13.pdf)
