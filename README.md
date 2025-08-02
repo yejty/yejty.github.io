@@ -22,4 +22,4 @@ Completed **Computer Graphics and Geometry** studies at *Comenius University Bra
 
 ## 📄 My CV
 
-👉 [Download my CV (PDF)](CV_tutka13.pdf)
+👉 [Download my CV (PDF)](cv_yejty.pdf)
