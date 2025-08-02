@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @tutka13
+# 👋 Hi, I’m @yejty
 
 I work in a small team focused on 3D applications and 3D model conversion.
 
